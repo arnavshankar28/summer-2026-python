@@ -16,8 +16,8 @@ Has every NBA player along with statistics and rankings
 ### Player Efficiency
 Calculates a player's efficiency based on points scored, rebounds, and assists
 
-### 3 Graphs
-Each graph shows a perticular NBA team statistics such as total wins, total losses, and points per game
+### 5 Graphs
+Each graph shows a perticular NBA team statistics such as total wins, total losses, points per game, total points per team, and total payroll per team
 
 ## Goals
 
