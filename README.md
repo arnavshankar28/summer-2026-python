@@ -16,6 +16,9 @@ Has every NBA player along with statistics and rankings
 ### Player Efficiency
 Calculates a player's efficiency based on points scored, rebounds, and assists
 
+### First ML Model
+Predicted NBA team wins based of PPG, AST, and REB. Was not accurate due to the other various factors that play a role in a team's wins
+
 ### 7 Graphs
 Graph 1: Total Wins Per Team
 Graph 2: Total Losses Per Team
